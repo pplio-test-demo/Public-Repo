@@ -18,7 +18,7 @@ This repository is used to test: tst.
 * Commits
 * Push operations.
 * Pull Requests  .
-* Multiple developers working on the same repository
+* Multiple developers working on the same repository.
 
 ## Team
 
