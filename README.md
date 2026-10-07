@@ -22,7 +22,7 @@ This repository is used to test: tst.
 
 ## Team
 
-The test team can contain multiple developers working on this repository.
+The test team can contain multiple developers working on this repository.  
 
 Example:
 
