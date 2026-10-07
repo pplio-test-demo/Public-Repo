@@ -17,7 +17,7 @@ This repository is used to test:
 * Code changes
 * Commits
 * Push operations.
-* Pull Requests  
+* Pull Requests  .
 * Multiple developers working on the same repository
 
 ## Team
