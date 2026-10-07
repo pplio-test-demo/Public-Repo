@@ -8,7 +8,7 @@ This repository is created for testing GitHub repository integration with PPLIO.
 
 ## Purpose
 
-This repository is used to test: tst
+This repository is used to test: tst.
 
 * Public repository connection
 * Repository assignment to a PPLIO team
