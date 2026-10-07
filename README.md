@@ -10,7 +10,7 @@ This repository is created for testing GitHub repository integration with PPLIO.
 
 ## Purpose
 
-This repository is used to test:
+This repository is used to test: tst.  
 
 
 * Public repository connection
@@ -19,13 +19,13 @@ This repository is used to test:
 * Branch creation
 * Code changes
 * Commits
-* Push operations
-* Pull Requests
-* Multiple developers working on the same repository
+* Push operations.
+* Pull Requests  .
+* Multiple developers working on the same repository.
 
 ## Team
 
-The test team can contain multiple developers working on this repository.
+The test team can contain multiple developers working on this repository.  
 
 Example:
 
