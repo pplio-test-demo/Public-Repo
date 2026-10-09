@@ -11,7 +11,7 @@ This repository is created for testing GitHub repository integration with PPLIO.
 This repository is used to test: tst.  
 
 * Public repository connection
-* Repository assignment to a PPLIO team
+* Repository assignment to a PPLIO team...
 * Repository cloning
 * Branch creation
 * Code changes
