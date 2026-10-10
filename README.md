@@ -8,28 +8,28 @@ This repository is created for testing GitHub repository integration with PPLIO.
 
 ## Purpose
 
-This repository is used to test: tst.  
+This repository is used to test:
 
 * Public repository connection
-* Repository assignment to a PPLIO team...
+* Repository assignment to a PPLIO team
 * Repository cloning
 * Branch creation
 * Code changes
 * Commits
-* Push operations.
-* Pull Requests  .
+* Push operations
+* Pull Requests
 * Multiple developers working on the same repository.
 
 ## Team
 
-The test team can contain multiple developers working on this repository.  
+The test team can contain multiple developers working on this repository.
 
-Example::
+Example:
 
 * Developer 1
 * Developer 2
 * Developer 3
-* Developer 4
+* Developer 44
 * Developer 5
 
 ## Basic Workflow
@@ -55,5 +55,8 @@ Merge
 ## Test Message
 
 This repository belongs to the PPLIO GitHub Integration test environment.
+See [PPLIO](https://pplio.com) for more details.
+
+New contributors: visit the [PPLIO platform](https://pplio.com) to get started and understand the project workflow before making changes.
 
 If you are testing this repository, please create your own branch instead of directly modifying `main`.
