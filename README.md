@@ -10,24 +10,24 @@ This repository is created for testing GitHub repository integration with PPLIO.
 
 ## Purpose
 
-This repository is used to test:
+This repository is used to test: tst.  
 
 
 * Public repository connection
-* Repository assignment to a PPLIO team
+* Repository assignment to a PPLIO team...
 * Repository cloning
 * Branch creation
 * Code changes
 * Commits
-* Push operations
-* Pull Requests
-* Multiple developers working on the same repository
+* Push operations.
+* Pull Requests  .
+* Multiple developers working on the same repository.
 
 ## Team
 
-The test team can contain multiple developers working on this repository.
+The test team can contain multiple developers working on this repository.  
 
-Example:
+Example::
 
 * Developer 1
 * Developer 2
