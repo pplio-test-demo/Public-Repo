@@ -15,7 +15,7 @@ This repository is used to test:
 * Repository cloning
 * Branch creationing
 * Code changes
-* Commits
+* Commits.
 * Push operations
 * Pull Requests
 * Multiple developers working on the same repository.
