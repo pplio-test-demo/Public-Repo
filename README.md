@@ -12,7 +12,7 @@ This repository is used to test:
 
 * Public repository connection.
 * Repository assignment to a PPLIO teaming
-* Repository cloning
+* Repository cloning.
 * Branch creationing
 * Code changes
 * Commits..
