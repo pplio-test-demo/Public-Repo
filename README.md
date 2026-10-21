@@ -6,34 +6,31 @@ This repository is created for testing GitHub repository integration with PPLIO.
 
 **Public**
 
-
-
 ## Purpose
 
 This repository is used to test:
 
-
-* Public repository connection
-* Repository assignment to a PPLIO team
-* Repository cloning
-* Branch creation
+* Public repository connection.
+* Repository assignment to a PPLIO teaming
+* Repository cloning.
+* Branch creationing.
 * Code changes
-* Commits
-* Push operations
-* Pull Requests
-* Multiple developers working on the same repository
+* Commits..
+* Push operations.
+* Pull Requests.
+* Multiple developers working on the same repository..
 
 ## Team
 
 The test team can contain multiple developers working on this repository.
 
-Example:
+Example::
 
-* Developer 1
-* Developer 2
-* Developer 3
-* Developer 4
-* Developer 5
+* Developer 11
+* Developer 22
+* Developer 33
+* Developer 44
+* Developer 55
 
 ## Basic Workflow
 
@@ -42,27 +39,22 @@ Clone Repository
       ↓
 Create Branch
       ↓
-Make Code Changes
+Make Code Changes.
       ↓
-Commit Changes
+Commit Changes.
       ↓
-Push Branch
+Push Branch.
       ↓
-Create Pull Request
+Create Pull Request.
       ↓
-Review
+Review.
       ↓
-Merge
+Merge.
 ```
 
 ## Test Message
 
 This repository belongs to the PPLIO GitHub Integration test environment.
+See [PPLIO](https://pplio.com) for more details.
 
 If you are testing this repository, please create your own branch instead of directly modifying `main`.
-# Subtask: New Bug Test 1
-
-This is the Scrum Testing of Github Integration
-
-
-aathif has changed this line to test github intergration
