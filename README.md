@@ -48,7 +48,7 @@ Commit Changes.
       ↓
 Push Branch
       ↓
-Create Pull Request
+Create Pull Request.
       ↓
 Review
       ↓
