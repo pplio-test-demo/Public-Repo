@@ -42,7 +42,7 @@ Example:
 ```text
 Clone Repository
       ↓
-Create Branch
+Create Branch.
       ↓
 Make Code Changes.
       ↓
