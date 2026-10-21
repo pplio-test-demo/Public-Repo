@@ -24,7 +24,7 @@ This repository is used to test:
 
 The test team can contain multiple developers working on this repository.
 
-Example:
+Example::
 
 * Developer 1
 * Developer 22
