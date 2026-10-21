@@ -44,11 +44,11 @@ Create Branch
       ↓
 Make Code Changes
       ↓
-Commit Changes
+Commit Changes.
       ↓
 Push Branch
       ↓
-Create Pull Request
+Create Pull Request.
       ↓
 Review
       ↓
