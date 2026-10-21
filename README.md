@@ -44,7 +44,7 @@ Clone Repository
       ↓
 Create Branch
       ↓
-Make Code Changes
+Make Code Changes.
       ↓
 Commit Changes
       ↓
