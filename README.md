@@ -4,12 +4,7 @@ This repository is created for testing GitHub repository integration with PPLIO.
 
 ## Repository Type
 
-**Public**
-
-
-
-
-
+**Public*
 ## Purpose
 
 This repository is used to test:
