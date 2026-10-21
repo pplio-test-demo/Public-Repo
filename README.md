@@ -43,7 +43,7 @@ Make Code Changes
       ↓
 Commit Changes
       ↓
-Push Branch
+Push Branch.
       ↓
 Create Pull Request.
       ↓
