@@ -41,7 +41,7 @@ Create Branch
       ↓
 Make Code Changes
       ↓
-Commit Changes
+Commit Changes.
       ↓
 Push Branch.
       ↓
