@@ -49,7 +49,7 @@ Create Pull Request.
       ↓
 Review.
       ↓
-Merge.
+Merge..
 ```
 
 ## Test Message
