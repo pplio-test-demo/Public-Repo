@@ -40,7 +40,7 @@ Example:
 ## Basic Workflow
 
 ```text
-Clone Repository
+Clone Repository.
       ↓
 Create Branch.
       ↓
