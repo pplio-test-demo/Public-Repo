@@ -40,15 +40,15 @@ Example:
 ## Basic Workflow
 
 ```text
-Clone Repository
+Clone Repository.
       ↓
-Create Branch
+Create Branch.
       ↓
-Make Code Changes
+Make Code Changes.
       ↓
-Commit Changes
+Commit Changes.
       ↓
-Push Branch
+Push Branch.
       ↓
 Create Pull Request
       ↓
