@@ -62,9 +62,9 @@ Merge
 This repository belongs to the PPLIO GitHub Integration test environment.
 
 If you are testing this repository, please create your own branch instead of directly modifying `main`.
-# Subtask: New Bug Test 1
+# Work on #122
 
-This is the Scrum Testing of Github Integration
+This is the Kanban Testing of Github Integration
 
 
-aathif has changed this line to test github intergration
+Tester has changed this line to test github intergration
