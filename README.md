@@ -67,4 +67,4 @@ If you are testing this repository, please create your own branch instead of dir
 This is the Kanban Testing of Github Integration.
 
 
-Tester has changed this line to test github intergration
+Tester has changed this line to test github intergration.
