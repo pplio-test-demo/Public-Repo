@@ -64,7 +64,7 @@ This repository belongs to the PPLIO GitHub Integration test environment.
 If you are testing this repository, please create your own branch instead of directly modifying `main`.
 # Work on #122.
 
-This is the Kanban Testing of Github Integration.
+This is the Kanban Testing of Github Integration..
 
 
 Tester has changed this line to test github intergration.
